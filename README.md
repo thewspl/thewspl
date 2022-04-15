@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thewspl
-- 👀 I’m interested in Developing games.
+- 👀 I’m interested in Programming.
 - 🌱 I’m currently learning C, C#, C++
 - 📫 How to reach me thewsplbusiness@gmail.com
 
