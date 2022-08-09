@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thewspl
+- 👋 Hi, I’m Barış Korkmaz
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning JavaScipt
 - 📫 How to reach me bariskorkmaziletisim@gmail.com
