@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thewspl
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C, C#, C++
+- 🌱 I’m currently learning JavaScipt
 - 📫 How to reach me bariskorkmaziletisim@gmail.com
 
 <!---
