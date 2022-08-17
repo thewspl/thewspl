@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barış Korkmaz
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning JavaScipt
+- 🌱 I’m currently learning c#
 - 📫 How to reach me bariskorkmaziletisim@gmail.com
 
 <!---
